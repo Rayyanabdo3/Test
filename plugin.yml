@@ -1,0 +1,7 @@
+---
+name: TestPlugin
+version: 0.0.1
+main: Wallibearfan3\TestPlugin\Main
+api: 4.0.0
+src-namespace-prefix: Wallibearfan3\TestPlugin
+...
